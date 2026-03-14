@@ -1,0 +1,11 @@
+/node_modules
+.env
+.DS_Store
+.env.local
+.env.example
+.env.production
+.env.development
+.env.test
+.env.test.local
+.env.test.production
+.env.test.development
